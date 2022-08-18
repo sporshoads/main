@@ -27,7 +27,7 @@ $url = "#";
           <div class="card">
             <a href="<?php echo $url; ?>">
               <img
-              src="img/1.gif"
+              src="1.gif"
               class="card-img-top"
               alt="Waterfall"
             />
@@ -35,7 +35,7 @@ $url = "#";
 
             <a href="<?php echo $url; ?>">
               <img
-              src="img/b1.png"
+              src="b1.png"
               class="card-img-top"
               alt="Waterfall"
             />
@@ -43,7 +43,7 @@ $url = "#";
 
             <a href="<?php echo $url; ?>">
               <img
-              src="img/b2.jpg"
+              src="b2.jpg"
               class="card-img-top"
               alt="Waterfall"
             />
@@ -56,7 +56,7 @@ $url = "#";
           <div class="card">
             <a href="<?php echo $url; ?>">
               <img
-              src="img/2.gif"
+              src="2.gif"
               class="card-img-top"
               alt="Waterfall"
             />
@@ -64,7 +64,7 @@ $url = "#";
 
             <a href="<?php echo $url; ?>">
               <img
-              src="img/b1.png"
+              src="b1.png"
               class="card-img-top"
               alt="Waterfall"
             />
@@ -72,7 +72,7 @@ $url = "#";
 
             <a href="<?php echo $url; ?>">
               <img
-              src="img/b2.jpg"
+              src="b2.jpg"
               class="card-img-top"
               alt="Waterfall"
             />
